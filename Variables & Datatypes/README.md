@@ -39,7 +39,7 @@ Practicing JavaScript and object creation helps:
      git clone https://github.com/ananya0707/Learning-Javascript.git
      ```
 
-### 2. **Open the `index.html` file in VSCode**:
+### 2. **Create the `index.html` file in VSCode**:
    - After cloning, navigate to the folder where you saved the repo.
    - In VSCode, open the folder by going to `File` > `Open Folder`, then select the cloned repository folder.
 

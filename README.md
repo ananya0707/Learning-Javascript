@@ -16,6 +16,11 @@ This repository contains all my **JavaScript practice solutions** while learning
 
 Each topic is organized in folders, with a `README.md` showing the question and a `.js` file with the solution 💻.
 
+<p align="center">
+  🌟 Step-by-step journey through JS concepts with organized solutions <br>
+  💡 Following the amazing <a href="https://www.youtube.com/c/ApnaCollege">Apna College</a> YouTube course
+</p>
+
 ---
 
 ## 🧠 What’s Included?
@@ -26,6 +31,14 @@ Each topic is organized in folders, with a `README.md` showing the question and 
 - 💡 Simple, beginner-friendly code
 
 ---
+
+## 🛠️ How to Run My Code (using VS Code)
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/ananya0707/Learning-Javascript.git
+
+
 
 ## 💻 Folder Structure
 
