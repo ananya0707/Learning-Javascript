@@ -20,7 +20,8 @@ This section will help you level up your skills in **functions** and **array met
 
 🧮 Given an array of numbers, print the **square of each value** using the `forEach()` loop.
 
-let numbers = [2, 3, 4, 5];
+ let numbers = [2, 3, 4, 5];
+
 💡 Hint: Use forEach() to iterate and console.log(num * num).
 
 ## 📌 Question 3: **Filter marks & reduce to product**
