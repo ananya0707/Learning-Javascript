@@ -15,8 +15,7 @@ prompt("Enter a number:");
 
 💡 Hint: Use the modulus operator % to check if the remainder is zero.
 
-📌 Question 2: Assign grades based on student scores
-🎓 Write a program to give grades to students according to their score:
+## 📌 Question 2: **Write a code which can give grades to students according to their scores:**
 
 Score	Grade
 80 - 100	A
