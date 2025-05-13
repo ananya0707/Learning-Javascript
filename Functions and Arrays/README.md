@@ -10,7 +10,7 @@ This section will help you level up your skills in **functions** and **array met
 🔤 Create a function using the `function` keyword that:
 
 - Takes a **string** as an argument  
-- Returns the **number of vowels** in the string  
+- Returns the **number of vowels** in the string<br>
 
 💡 **Hint**: Vowels are `a, e, i, o, u` (both lowercase and uppercase). Loop through the string and count them.
 
