@@ -12,7 +12,7 @@ Here, you'll find exercises to help you strengthen your understanding of **condi
 ```js
 prompt("Enter a number:");
 🔍 Check if the number is a multiple of 5 or not.
-
+```
 💡 Hint: Use the modulus operator % to check if the remainder is zero.
 
 ## 📌 Question 2: **Write a code which can give grades to students according to their scores:**
