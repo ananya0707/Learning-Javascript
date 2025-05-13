@@ -34,5 +34,3 @@ JavaScript Conditional Statements - W3Schools
 Let's practice decision making with JavaScript! 🧠🔥
 
 ---
-
-Let me know if you also need the image placeholders or sample solutions!
